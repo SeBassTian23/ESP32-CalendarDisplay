@@ -2,7 +2,7 @@
 
 > 3-color eInk Calendar Display
 
-<!-- ![Calendar](./images/calndar-display.jpg) -->
+![Calendar](./images/calendar-display.jpg)
 
 ## The Project
 
